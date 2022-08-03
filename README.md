@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on robotics and machine learning research.
-- 🤔 I’m looking for help with getting into graduate school for a PhD. (Research interest is Robotics and Reinforcement Learning)
+- 🤔 I’m looking for help with getting into graduate school. (Research interest is Robotics and Reinforcement Learning)
 - 💬 Ask me about anything. Machine Learning, Software Engineering, Business, AI Saturdays Lagos etc.
 - 📫 How to reach me: Email is preferrable kennydukor@gmail.com, [Twitter](https://twitter.com/kennydukor)
 - 😄 Pronouns: he / him
