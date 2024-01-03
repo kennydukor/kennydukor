@@ -7,11 +7,11 @@ Get to know more about the here 👉 https://kenechidukor.com
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on robotics and machine learning research.
-- 🤔 I’m looking for help with getting into graduate school. (Research interest is Robotics and Reinforcement Learning)
-- 💬 Ask me about anything. Machine Learning, Software Engineering, Business, AI Saturdays Lagos etc.
+- 🔭 I’m always working on something
+- 🌱 I’m always learning 
+- 👯 I’m looking to collaborate on open-source robotics and machine learning research.
+- 🤔 I’m looking for new challenges
+- 💬 Ask me about anything. Product Management, Machine Learning, Software Engineering, Business, AI Saturdays Lagos, Robotics etc.
 - 📫 How to reach me: Email is preferrable kennydukor@gmail.com, [Twitter](https://twitter.com/kennydukor)
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I have a good sense of Music (play the piano and guitar), Art (photography) and Business/Product owner (managed projects for startups).
