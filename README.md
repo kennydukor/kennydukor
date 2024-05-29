@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Get to know more about the here 👉 https://kenechidukor.com
+Get to know more about the here 👉 https://www.kenechidukor.com
 
 <!--
 **kennydukor/kennydukor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
